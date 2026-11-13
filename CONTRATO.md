@@ -158,5 +158,5 @@ Este documento solo se modifica mediante PR aprobada por los dos.
 
 **Aceptado por:**
 
-- [ ] Miembro 1: ____________ — fecha: ________
-- [ ] Miembro 2: ____________ — fecha: ________
+- [ ] Amado Artiles Rodríguez — fecha: 13/11/2026
+- [ ] Jaime Palomo Bugés — fecha: 13/11/2026
