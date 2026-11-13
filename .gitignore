@@ -17,3 +17,6 @@ output/
 Thumbs.db
 desktop.ini
 __MACOSX/
+
+CLAUDE.local.md
+.claude/settings.local.json
