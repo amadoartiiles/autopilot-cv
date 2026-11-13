@@ -1,0 +1,5 @@
+# Notas personales (renombra a CLAUDE.local.md — está en .gitignore)
+
+Cosas solo tuyas en este proyecto, que no quieres imponer al equipo. Ej.:
+- Yo me encargo del módulo <X>; mis issues son los de la etiqueta <Y>.
+- Mi entorno local usa el puerto 8081 en vez de 8080.
