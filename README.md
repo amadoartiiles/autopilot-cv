@@ -90,5 +90,5 @@ Normas de código, ramas, commits y revisión: [`CONTRATO.md`](CONTRATO.md).
 
 ## Autores
 
-- Miembro 1
-- Miembro 2
+- Amado Artiles Rodríguez
+- Jaime Palomo Bugés
